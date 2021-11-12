@@ -1,0 +1,13 @@
+D:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.exe
+d:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.deps.json
+d:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.runtimeconfig.json
+d:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.runtimeconfig.dev.json
+D:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.dll
+D:\bokep\P2_1_1204025\bin\Debug\netcoreapp3.1\P2_1_1204025.pdb
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.csprojAssemblyReference.cache
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.AssemblyInfoInputs.cache
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.AssemblyInfo.cs
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.csproj.CoreCompileInputs.cache
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.dll
+D:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.pdb
+d:\bokep\P2_1_1204025\obj\Debug\netcoreapp3.1\P2_1_1204025.genruntimeconfig.cache
